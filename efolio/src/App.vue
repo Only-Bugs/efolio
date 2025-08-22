@@ -1,7 +1,7 @@
 <script setup>
-import JSONLab from "./components/JSONLab.vue";
+import UserForm from "./components/UserForm.vue";
 </script>
 
 <template>
-  <JSONLab />
+  <UserForm />
 </template>
